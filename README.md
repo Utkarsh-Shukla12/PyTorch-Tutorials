@@ -14,4 +14,4 @@ conda install mathplotlib, pandas, numpy
 
 ## Reference
 
-Please refer to the offical [Documentation] of PyTorch for inforamtion.
+Please refer to the offical [Documentation] (https://pytorch.org/docs/stable/index.html) of PyTorch for inforamtion.
