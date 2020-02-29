@@ -18,14 +18,24 @@ cd PyTorch-Tutorials
 
 ```
 
-## Notebooks
+## Tutorial Notebooks
 
-Transfer Learning for Flower Classification using ResNet50
+Refer to the attached Notebooks for more details. In case you find any bugs or contribute to the the repo. Please feel free to create a pull request.
 
-CNN demo in CIFAR Dataset
+* [Transfer Learning for Flower Classification](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/FlowerClassifier.ipynb)
 
-Vanilla RNN demo for time series prediction
+* [CNN demo in CIFAR Dataset](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/cifar10_tutorial.ipynb)
+Note: Above Notebook is offical pytorch tutorial, I've not written or claims the right.
+
+* [Vanilla RNN demo for time series prediction](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Simple_RNN_Example.ipynb)
 
 ## Reference
 
 Please refer to the offical [Documentation](https://pytorch.org/docs/stable/index.html) of PyTorch for inforamtion.
+
+## License
+
+[MIT License](https://en.wikipedia.org/wiki/MIT_License)
+
+## Author 
+**Utkarsh Shukla**
