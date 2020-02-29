@@ -25,7 +25,7 @@ Refer to the attached Notebooks for more details. In case you find any bugs or c
 * [Transfer Learning for Flower Classification](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/FlowerClassifier.ipynb)
 
 * [CNN demo in CIFAR Dataset](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/cifar10_tutorial.ipynb)
-Note: Above Notebook is offical pytorch tutorial, I've not written or claims the right.
+Note: This Notebook is offical pytorch tutorial, I've not written or claims this to be my work. But it's a nice read.
 
 * [Vanilla RNN demo for time series prediction](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Simple_RNN_Example.ipynb)
 
