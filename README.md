@@ -9,7 +9,7 @@ a solid foundation. :)
 ```
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
-conda install mathplotlib, pandas, numpy
+conda install matplotlib, pandas, numpy
 
 
 git clone https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials
