@@ -29,7 +29,7 @@ Note: This Notebook is offical pytorch tutorial, I've not written or claims this
 
 * [Vanilla RNN demo for time series prediction](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Simple_RNN_Example.ipynb)
 
-* [Fashion MNIST Neural Network]() [Open in Google Colab](https://colab.research.google.com/drive/10xZlDQND6ci9AtoKGlUG1Is6FE4LJICj?usp=sharing)
+* [Fashion MNIST Neural Network](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/First_Neural_Network.ipynb) or  [Open in Google Colab](https://colab.research.google.com/drive/10xZlDQND6ci9AtoKGlUG1Is6FE4LJICj?usp=sharing)
 
 ## Reference
 
