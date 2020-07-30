@@ -1,5 +1,5 @@
 # PyTorch Tuotrials
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Pytorch](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Pytorch%20logo.png?raw=true)
 
 ## Description
 
