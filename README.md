@@ -1,5 +1,5 @@
 # PyTorch Tuotrials
-![Pytorch](https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Pytorch%20logo.png?raw=true)
+ <div style="text-align:center"><img src="https://github.com/Utkarsh-Shukla12/PyTorch-Tutorials/blob/master/Pytorch%20logo.png" /></div>
 
 ## Description
 
